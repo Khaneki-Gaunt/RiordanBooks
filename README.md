@@ -9,7 +9,7 @@ Para obtener la aplicación, no necesitas ir al Inframundo. Solo sigue estos pas
 
 1. Ve a la sección de **[Releases (Lanzamientos)](../../releases)** a la derecha (o arriba en móviles).
 2. Busca la versión más reciente (ej. v1.0.0).
-3. En la sección "Assets", haz clic en el archivo **`LectorMestizo_Setup.exe`** (o el nombre de tu archivo) para descargarlo.
+3. En la sección "Assets", haz clic en el archivo **`RiordanBooks.apk`** (o el nombre de tu archivo) para descargarlo.
 4. Ejecuta el archivo e instálalo en tu dispositivo.
 
 ## ✨ Características
